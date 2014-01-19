@@ -1,0 +1,7 @@
+div [role="main"] {
+    margin-top: 20px
+}
+
+.no-pointer {
+    cursor: default;
+}
